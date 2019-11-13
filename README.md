@@ -1,5 +1,4 @@
-This project was created to display how redux is integrated in React for a blogpost on Medium. I used Create-React-App to spin up a simple app - instruction on how to run it are below. Thanks!
-Blog: 
+This project was created to display how redux is integrated in React for a [blogpost](https://medium.com/@gianfranconuschese/using-redux-with-react-cb4414f53fd9) on Medium. I used Create-React-App to spin up a simple app - instruction on how to run it are below. Thanks for reading! 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
